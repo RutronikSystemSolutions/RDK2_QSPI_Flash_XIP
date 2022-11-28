@@ -55,7 +55,7 @@ SECTIONS
 
 ### Debugging
 
-If you successfully have imported the example, the debug configurations are already prepared to use with a the KitProg3, MiniProg4, or J-link. Open the ModusToolbox perspective and find the Quick Panel. Click on the desired debug launch configuration and wait untill the programming completes and debugging starts.
+If you successfully have imported the example, the debug configurations are already prepared to use with a the KitProg3, MiniProg4, or J-link. Open the ModusToolbox perspective and find the Quick Panel. Click on the desired debug launch configuration and wait untill the programming completes and the debugging starts.
 
 <img src="images/xip_example_debug.png" style="zoom:100%;" />
 
