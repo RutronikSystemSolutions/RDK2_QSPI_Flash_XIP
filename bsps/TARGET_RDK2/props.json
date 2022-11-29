@@ -20,7 +20,6 @@
                 "hal",
                 "i2c",
                 "i2s",
-                "j2",
                 "led",
                 "low_power",
                 "lptimer",
@@ -42,7 +41,8 @@
                 "switch",
                 "uart",
                 "usb_device",
-                "usb_host"
+                "usb_host",
+                "udb"
             ],
             "dependencies": {
                 "cat1cm0p": "release-v1.0.0",
